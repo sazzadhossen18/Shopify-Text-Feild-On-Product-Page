@@ -1,0 +1,29 @@
+
+https://ui-elements-generator.myshopify.com/pages/line-item-property
+
+
+
+
+
+
+.line-item-property__field input[type=text] {
+    width: 100%;
+    box-shadow: none;
+    outline: none;
+    border: 1px solid#000;
+    padding: 10px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin: 8px 0;
+    color: red;
+}
+
+
+
+
+
+
+div class="line-item-property__field">
+    <label for="your-name">Your name sazzad</label>
+    <input id="your-name" type="text" name="properties[Your name]" maxlength="1" placeholder="Your name" class="inputclass">
+</div>
