@@ -25,5 +25,5 @@ https://ui-elements-generator.myshopify.com/pages/line-item-property
 
 div class="line-item-property__field">
     <label for="your-name">Your name sazzad</label>
-    <input id="your-name" type="text" name="properties[Your name]" maxlength="1" placeholder="Your name" class="inputclass">
+    <input id="your-name" type="text" name="properties[Your name]" form="product-form-{{ section.id }}" maxlength="1" placeholder="Your name" class="inputclass">
 </div>
